@@ -1,0 +1,15 @@
+D:\source\repos\TicketSales\TicketSales\bin\Debug\net6.0\TicketSales.exe
+D:\source\repos\TicketSales\TicketSales\bin\Debug\net6.0\TicketSales.deps.json
+D:\source\repos\TicketSales\TicketSales\bin\Debug\net6.0\TicketSales.runtimeconfig.json
+D:\source\repos\TicketSales\TicketSales\bin\Debug\net6.0\TicketSales.dll
+D:\source\repos\TicketSales\TicketSales\bin\Debug\net6.0\TicketSales.pdb
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.csproj.AssemblyReference.cache
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.AssemblyInfoInputs.cache
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.AssemblyInfo.cs
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.csproj.CoreCompileInputs.cache
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.dll
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\refint\TicketSales.dll
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.pdb
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\TicketSales.genruntimeconfig.cache
+D:\source\repos\TicketSales\TicketSales\obj\Debug\net6.0\ref\TicketSales.dll
